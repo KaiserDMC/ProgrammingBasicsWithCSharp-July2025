@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.Cake", "06.Cake\06.Cake.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.Moving", "07.Moving\07.Moving.csproj", "{0AE25135-C0B1-40B0-8B7B-21818E00D1F7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00.Graduation", "00.Graduation\00.Graduation.csproj", "{97ABB6F1-7352-4BC9-B60E-6E2E3CCA36D5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{0AE25135-C0B1-40B0-8B7B-21818E00D1F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0AE25135-C0B1-40B0-8B7B-21818E00D1F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0AE25135-C0B1-40B0-8B7B-21818E00D1F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97ABB6F1-7352-4BC9-B60E-6E2E3CCA36D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97ABB6F1-7352-4BC9-B60E-6E2E3CCA36D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97ABB6F1-7352-4BC9-B60E-6E2E3CCA36D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97ABB6F1-7352-4BC9-B60E-6E2E3CCA36D5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
